@@ -1,0 +1,52 @@
+#wrapper{
+    width:960px;
+    margin: 0px auto;
+    display: block;
+
+}
+
+.voting_panel{
+    width:400px;
+    margin: 100px auto;
+    border: 2px solid red;
+    border-radius: 5px;
+    height:250px;
+    background: #ddd;
+}
+.voting_panel h1{
+    color: blue;
+    text-align: center;
+}
+input{
+    margin: 10px;
+    width: 100px;
+}
+
+.vote_result{
+    background: #D25CAE;
+    width:400px;
+    height:300px;
+    padding: 10px;
+    margin: 100px auto;
+    border-radius: 5px;
+}
+.vote_result h2{
+    color:#fff;
+}
+.vote_result p{
+    color:#000;
+    background: #ddd;
+    padding:5px;
+    border-radius: 5px;
+}
+.footer p{
+    color:#01A2DD;
+    padding: 20px;
+    text-align: center;
+}
+.footer p a{
+    padding-left: 10px;
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+}
